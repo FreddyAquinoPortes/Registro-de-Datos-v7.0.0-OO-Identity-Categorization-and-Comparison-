@@ -54,6 +54,7 @@ namespace Registro_de_Datos_v7._0._0
 			Console.Clear();
 
 			 Persona Personacons = new Persona(cedula: cedula, sexo:sexo,edad:edad,estadoCivil:estadoCivil,nivelAcademico:nivelAcademico,nombres:nombres,apellidos:apellidos,ahorros:ahorros,contraseña:password) ;
+			return Personacons;
 		}
 	}
 }

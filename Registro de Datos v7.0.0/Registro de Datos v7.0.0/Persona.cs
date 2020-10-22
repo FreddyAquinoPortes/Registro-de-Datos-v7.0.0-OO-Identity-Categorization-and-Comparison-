@@ -32,6 +32,11 @@ namespace Registro_de_Datos_v7._0._0
 
 
 		}
+		//Sobrecargar de constructor
+			public Persona()
+			{
+
+			}
 
 		//Metodos de acceso(MDA)
 
