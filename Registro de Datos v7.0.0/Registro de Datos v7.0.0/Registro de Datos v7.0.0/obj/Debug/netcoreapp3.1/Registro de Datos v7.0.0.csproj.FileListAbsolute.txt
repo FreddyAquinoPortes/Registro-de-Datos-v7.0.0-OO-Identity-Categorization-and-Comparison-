@@ -1,0 +1,13 @@
+C:\Users\frequ\Desktop\V7\Registro de Datos v7.0.0\Registro de Datos v7.0.0\bin\Debug\netcoreapp3.1\Registro de Datos v7.0.0.exe
+C:\Users\frequ\Desktop\V7\Registro de Datos v7.0.0\Registro de Datos v7.0.0\bin\Debug\netcoreapp3.1\Registro de Datos v7.0.0.deps.json
+C:\Users\frequ\Desktop\V7\Registro de Datos v7.0.0\Registro de Datos v7.0.0\bin\Debug\netcoreapp3.1\Registro de Datos v7.0.0.runtimeconfig.json
+C:\Users\frequ\Desktop\V7\Registro de Datos v7.0.0\Registro de Datos v7.0.0\bin\Debug\netcoreapp3.1\Registro de Datos v7.0.0.runtimeconfig.dev.json
+C:\Users\frequ\Desktop\V7\Registro de Datos v7.0.0\Registro de Datos v7.0.0\bin\Debug\netcoreapp3.1\Registro de Datos v7.0.0.dll
+C:\Users\frequ\Desktop\V7\Registro de Datos v7.0.0\Registro de Datos v7.0.0\bin\Debug\netcoreapp3.1\Registro de Datos v7.0.0.pdb
+C:\Users\frequ\Desktop\V7\Registro de Datos v7.0.0\Registro de Datos v7.0.0\obj\Debug\netcoreapp3.1\Registro de Datos v7.0.0.csprojAssemblyReference.cache
+C:\Users\frequ\Desktop\V7\Registro de Datos v7.0.0\Registro de Datos v7.0.0\obj\Debug\netcoreapp3.1\Registro de Datos v7.0.0.AssemblyInfoInputs.cache
+C:\Users\frequ\Desktop\V7\Registro de Datos v7.0.0\Registro de Datos v7.0.0\obj\Debug\netcoreapp3.1\Registro de Datos v7.0.0.AssemblyInfo.cs
+C:\Users\frequ\Desktop\V7\Registro de Datos v7.0.0\Registro de Datos v7.0.0\obj\Debug\netcoreapp3.1\Registro de Datos v7.0.0.csproj.CoreCompileInputs.cache
+C:\Users\frequ\Desktop\V7\Registro de Datos v7.0.0\Registro de Datos v7.0.0\obj\Debug\netcoreapp3.1\Registro de Datos v7.0.0.dll
+C:\Users\frequ\Desktop\V7\Registro de Datos v7.0.0\Registro de Datos v7.0.0\obj\Debug\netcoreapp3.1\Registro de Datos v7.0.0.pdb
+C:\Users\frequ\Desktop\V7\Registro de Datos v7.0.0\Registro de Datos v7.0.0\obj\Debug\netcoreapp3.1\Registro de Datos v7.0.0.genruntimeconfig.cache
